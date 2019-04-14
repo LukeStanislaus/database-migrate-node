@@ -18,8 +18,13 @@
   "homepage": "https://github.com/LukeStanislaus/database-migrate-node#readme",
   "dependencies": {
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.16.0",
     "fs": "0.0.1-security",
-    "node-fetch": "^2.3.0"
+    "googleapis": "^39.2.0",
+    "node-fetch": "^2.3.0",
+    "node-uuid": "^1.4.8",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
   }
 }
